@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Key_Behaviour : MonoBehaviour {
     public GameObject DOOR;
+
+    public float MovementSpeed = 10;
 	// Use this for initialization
 	void Start () {
 		
@@ -11,7 +13,7 @@ public class Key_Behaviour : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+        Rotation();
 	}
     public void OnCollisionEnter(Collision collision)
     {
@@ -21,4 +23,11 @@ public class Key_Behaviour : MonoBehaviour {
             Destroy(this.gameObject);
         }
     }
+
+    public void Rotation()
+    {
+        this.transform.Rotate(Vector3.up * MovementSpeed * Time.deltaTime);
+    }
+
+
 }
