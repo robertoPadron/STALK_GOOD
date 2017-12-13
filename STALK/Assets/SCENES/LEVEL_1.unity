@@ -1673,6 +1673,11 @@ Prefab:
       propertyPath: DOOR
       value: 
       objectReference: {fileID: 928748082}
+    - target: {fileID: 114175264456221332, guid: 41d1cac196452694fb10f2476db79e6e,
+        type: 2}
+      propertyPath: MovementSpeed
+      value: 50
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 41d1cac196452694fb10f2476db79e6e, type: 2}
   m_IsPrefabParent: 0
@@ -20467,15 +20472,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4732522944174084, guid: 0b3a80039577c0140a2431750b6441a8, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 20.67
+      value: 33.75
       objectReference: {fileID: 0}
     - target: {fileID: 4732522944174084, guid: 0b3a80039577c0140a2431750b6441a8, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -67.04
+      value: -68.706
       objectReference: {fileID: 0}
     - target: {fileID: 4732522944174084, guid: 0b3a80039577c0140a2431750b6441a8, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 102.19
+      value: 14.392
       objectReference: {fileID: 0}
     - target: {fileID: 4732522944174084, guid: 0b3a80039577c0140a2431750b6441a8, type: 2}
       propertyPath: m_LocalRotation.x
