@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Platform
   - Character
+  - CAMERA
   layers:
   - Default
   - TransparentFX
