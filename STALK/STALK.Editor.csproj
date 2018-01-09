@@ -376,6 +376,7 @@
     <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
     <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
     <None Include="Assets\DOWNLOADED\SciFi_Door\readme.txt" />
+    <None Include="Assets\DOWNLOADED\Ultra Emissive Particles Shader\Shaders\ParticleEmmissive.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

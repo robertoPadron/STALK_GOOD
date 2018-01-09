@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -107,10 +107,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 711, y: 492}
-  m_MaxSize: {x: 18006, y: 14042}
+  m_MinSize: {x: 713, y: 492}
+  m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 129
+  controlID: 133
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -134,7 +134,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 130
+  controlID: 134
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -153,8 +153,8 @@ MonoBehaviour:
     y: 0
     width: 1149
     height: 486
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 89
+  controlID: 64
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -228,8 +228,8 @@ MonoBehaviour:
     y: 0
     width: 385
     height: 488
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -278,8 +278,8 @@ MonoBehaviour:
     y: 0
     width: 386
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -310,7 +310,7 @@ MonoBehaviour:
     x: 0
     y: 92
     width: 1147
-    height: 527
+    height: 465
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -419,9 +419,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.5905054, y: 113.27208, z: -2.3632815}
+    m_Target: {x: 0.47515693, y: 113.62424, z: -0.6527154}
     speed: 2
-    m_Value: {x: -2.5905054, y: 113.27208, z: -2.3632815}
+    m_Value: {x: 0.47515693, y: 113.62424, z: -0.6527154}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -444,13 +444,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.06785668, y: -0.20270345, z: 0.014071943, w: -0.9767904}
+    m_Target: {x: -0.20585999, y: -0.013810526, z: 0.0029125197, w: -0.9785216}
     speed: 2
-    m_Value: {x: -0.06785631, y: -0.20270236, z: 0.014071868, w: -0.9767852}
+    m_Value: {x: -0.20585154, y: -0.013809959, z: 0.0029124003, w: -0.9784815}
   m_Size:
-    m_Target: 2.6499925
+    m_Target: 8.78551
     speed: 2
-    m_Value: 2.6499925
+    m_Value: 8.78551
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -489,29 +489,29 @@ MonoBehaviour:
     width: 381
     height: 467
   m_TreeViewState:
-    scrollPos: {x: 0, y: 16}
-    m_SelectedIDs: 90380000
-    m_LastClickedID: 14480
-    m_ExpandedIDs: 46f0ffffa6fbffff00000000
+    scrollPos: {x: 0, y: 478}
+    m_SelectedIDs: 6c820400
+    m_LastClickedID: 295532
+    m_ExpandedIDs: f68eddff14f3e2ffa6fbffff00000000203400005c3400009c340000ce82040074830400e2840400
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Player (2)
-      m_OriginalName: Player (2)
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 13956
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
   m_ExpandedScenes:
-  - LEVEL_1
+  - MENU
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -562,10 +562,10 @@ MonoBehaviour:
   m_LastProjectPath: D:\STALK_GOOD\STALK
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 1099}
+    scrollPos: {x: 0, y: 1179}
     m_SelectedIDs: 162d0000
     m_LastClickedID: 11542
-    m_ExpandedIDs: 000000000a280000102900007629000086290000c4290000e42900007e2a0000ae2a0000c42a0000e42a0000f42a00002a2b0000522b00006c2b00008e2b0000c42b0000cc2b0000ea2b0000fc2b0000142c00005c2c0000e62c0000162d0000a82d00004c2e0000542e00005e2e0000742e00008c2e0000be2e0000e42e0000f82e0000be330000c033000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000000a280000102900007629000086290000c4290000e42900007e2a0000ae2a0000c42a0000e42a0000f42a00002a2b0000522b00006c2b00008e2b0000c42b0000cc2b0000ea2b0000fc2b0000142c00005c2c0000e62c0000162d0000a82d00004c2e0000542e00005e2e0000742e00008c2e0000be2e0000e42e0000f82e000034390000363900007c86000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -593,7 +593,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000a280000102900007629000086290000c4290000e42900007e2a0000ae2a0000c42a0000e42a0000f42a00002a2b0000522b00006c2b00008e2b0000c42b0000cc2b0000ea2b0000fc2b0000142c00005c2c0000e62c0000162d0000a82d00004c2e0000542e00005e2e0000742e00008c2e0000be2e0000e42e0000f82e0000be330000c0330000
+    m_ExpandedIDs: 000000000a280000102900007629000086290000c4290000e42900007e2a0000ae2a0000c42a0000e42a0000f42a00002a2b0000522b00006c2b00008e2b0000c42b0000cc2b0000ea2b0000fc2b0000142c00005c2c0000e62c0000162d0000a82d00004c2e0000542e00005e2e0000742e00008c2e0000be2e0000e42e0000f82e00003439000036390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -647,7 +647,7 @@ MonoBehaviour:
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 16
-  m_DirectoriesAreaWidth: 110
+  m_DirectoriesAreaWidth: 182
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -674,7 +674,7 @@ MonoBehaviour:
     y: 92
     width: 384
     height: 926
-  m_ScrollPosition: {x: 0, y: 284.95508}
+  m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: -160
