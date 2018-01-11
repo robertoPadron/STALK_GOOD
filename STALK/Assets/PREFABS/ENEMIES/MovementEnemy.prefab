@@ -55,7 +55,7 @@ Transform:
   m_GameObject: {fileID: 1664817847234096}
   m_LocalRotation: {x: 0.000000026724042, y: -0.7062716, z: 0.000000026661032, w: -0.707941}
   m_LocalPosition: {x: -4.26, y: 114, z: 22.27}
-  m_LocalScale: {x: 0.35707295, y: 0.35707295, z: 0.35707295}
+  m_LocalScale: {x: 0.35707283, y: 0.35707295, z: 0.35707283}
   m_Children:
   - {fileID: 4785029602261912}
   m_Father: {fileID: 0}
@@ -83,6 +83,7 @@ MeshRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -98,6 +99,7 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
@@ -176,8 +178,8 @@ MonoBehaviour:
   Rotation: 20
   Arrived: 0
   Cooldown: 9
-  FirstPosition: 7
-  SecondPosition: -8
+  RightPosition: 7
+  LeftPosition: -8
   Detected: 0
   Charge: 0
   PlayerPosition: {fileID: 0}
