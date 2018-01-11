@@ -9,5 +9,9 @@ public class CambioEscena : MonoBehaviour {
         {
             SceneManager.LoadScene("MENU");
         }
+        if (other.tag == "Character")
+        {
+            SceneManager.LoadScene("LEVEL_1");
+        }
     }
 }
