@@ -7,11 +7,11 @@ public class CambioEscena : MonoBehaviour {
     void OnTriggerEnter(Collider other) {
         if (other.tag == "Character")
         {
-            SceneManager.LoadScene("MENU");
+            SceneManager.LoadScene("VICTORY");
         }
-        if (other.tag == "Character")
+        /*if (other.tag == "Character")
         {
             SceneManager.LoadScene("LEVEL_1");
-        }
+        }*/
     }
 }

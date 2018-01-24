@@ -95,6 +95,7 @@
     <Compile Include="Assets\SCRIPTS\GENERAL\Door_Key\Door_Key.cs" />
     <Compile Include="Assets\SCRIPTS\GENERAL\Door_Key\Key_Behaviour.cs" />
     <Compile Include="Assets\SCRIPTS\GENERAL\Platform\Platform_Movement.cs" />
+    <Compile Include="Assets\SCRIPTS\GENERAL\Victory.cs" />
     <Compile Include="Assets\SCRIPTS\MENU\CambiarMenu.cs" />
     <Compile Include="Assets\SCRIPTS\MENU\Exit.cs" />
     <Compile Include="Assets\SCRIPTS\MENU\MenuMovil.cs" />
