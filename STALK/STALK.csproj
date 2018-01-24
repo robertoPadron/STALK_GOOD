@@ -13,13 +13,11 @@
     <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
-    <CompilerResponseFile>
-    </CompilerResponseFile>
+    <CompilerResponseFile></CompilerResponseFile>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
     <UnityVersion>2017.1.1f1</UnityVersion>
-    <RootNamespace>
-    </RootNamespace>
+    <RootNamespace></RootNamespace>
     <LangVersion>4</LangVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -96,11 +94,14 @@
     <Compile Include="Assets\SCRIPTS\GENERAL\Basi_Door\BasicMovement.cs" />
     <Compile Include="Assets\SCRIPTS\GENERAL\Door_Key\Door_Key.cs" />
     <Compile Include="Assets\SCRIPTS\GENERAL\Door_Key\Key_Behaviour.cs" />
+    <Compile Include="Assets\SCRIPTS\GENERAL\Platform\Platform_Movement.cs" />
+    <Compile Include="Assets\SCRIPTS\GENERAL\Victory.cs" />
     <Compile Include="Assets\SCRIPTS\MENU\CambiarMenu.cs" />
     <Compile Include="Assets\SCRIPTS\MENU\Exit.cs" />
     <Compile Include="Assets\SCRIPTS\MENU\MenuMovil.cs" />
     <Compile Include="Assets\SCRIPTS\MENU\Scene.cs" />
     <Compile Include="Assets\SCRIPTS\moving.cs" />
+    <Compile Include="Assets\SCRIPTS\PauseGame.cs" />
     <Compile Include="Assets\SCRIPTS\PLAYER\ChangeColor.cs" />
     <Compile Include="Assets\SCRIPTS\PLAYER\CharacterMovement.cs" />
   </ItemGroup>
@@ -119,6 +120,10 @@
     <None Include="Assets\DOWNLOADED\Cardboard realistic boxes [HQ,Free]\SCG_Showcase_Modules\Standard Assets\Effects\CinematicEffects(BETA)\TonemappingColorGrading\Shaders\TonemappingColorGradingHistogram.shader" />
     <None Include="Assets\DOWNLOADED\Corvette\Readme.txt" />
     <None Include="Assets\DOWNLOADED\KEYS\Key\readME keys.txt" />
+    <None Include="Assets\DOWNLOADED\Robo controllers\Readme.txt" />
+    <None Include="Assets\DOWNLOADED\Robo1\Animations\Robo1 animations list.txt" />
+    <None Include="Assets\DOWNLOADED\Robo2\Animations\Robo2 animations list.txt" />
+    <None Include="Assets\DOWNLOADED\Robo3\Animations\Robo3 animations list.txt" />
     <None Include="Assets\DOWNLOADED\SKY city lite\Foliage\Materials\Vegetation.shader" />
     <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
@@ -201,7 +206,6 @@
     <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
     <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
     <None Include="Assets\DOWNLOADED\SciFi_Door\readme.txt" />
-    <None Include="Assets\DOWNLOADED\Ultra Emissive Particles Shader\Shaders\ParticleEmmissive.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

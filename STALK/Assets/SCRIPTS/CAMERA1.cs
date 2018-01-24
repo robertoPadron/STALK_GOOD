@@ -30,7 +30,7 @@ public class CAMERA1 : MonoBehaviour
                 camerasInRange.Add(c);
             }
         }
-
+        
         //Si la camara actual no esta en rango, cojo la mas cercana y la hago actual
         if (!camerasInRange.Contains(currentCamera))
         {
@@ -46,8 +46,8 @@ public class CAMERA1 : MonoBehaviour
             }
         }
         currentCamera.enabled = true;
-        cameraIndex = camerasInRange.IndexOf(currentCamera);
-
+        //cameraIndex = camerasInRange.IndexOf(currentCamera);
+        
 
         if (Input.GetKeyDown(KeyCode.Q))
         {
