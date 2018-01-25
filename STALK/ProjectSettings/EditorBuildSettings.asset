@@ -17,3 +17,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SCENES/VICTORY.unity
     guid: 7bdbab105f95f3e49873bd17b3260cf5
+  - enabled: 1
+    path: Assets/SCENES/GAMEOVER.unity
+    guid: d320728f1d7da2240a8ddbe397233502
