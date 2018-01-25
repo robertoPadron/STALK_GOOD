@@ -84,18 +84,24 @@
     <Compile Include="Assets\DOWNLOADED\Cardboard realistic boxes [HQ,Free]\SCG_Showcase_Modules\Standard Assets\Effects\CinematicEffects(BETA)\DepthOfField\DepthOfField.cs" />
     <Compile Include="Assets\DOWNLOADED\Cardboard realistic boxes [HQ,Free]\SCG_Showcase_Modules\Standard Assets\Effects\CinematicEffects(BETA)\ScreenSpaceReflection\ScreenSpaceReflection.cs" />
     <Compile Include="Assets\DOWNLOADED\Cardboard realistic boxes [HQ,Free]\SCG_Showcase_Modules\Standard Assets\Effects\CinematicEffects(BETA)\TonemappingColorGrading\TonemappingColorGrading.cs" />
+    <Compile Include="Assets\SCRIPTS\CambioEscena.cs" />
     <Compile Include="Assets\SCRIPTS\CAMERA1.cs" />
     <Compile Include="Assets\SCRIPTS\ENEMY\Enemy_Movement.cs" />
     <Compile Include="Assets\SCRIPTS\ENEMY\Laser\DESTROY.cs" />
     <Compile Include="Assets\SCRIPTS\ENEMY\MOVEMENT.cs" />
     <Compile Include="Assets\SCRIPTS\ENEMY\ROTATION.cs" />
+    <Compile Include="Assets\SCRIPTS\FLICKERING.cs" />
     <Compile Include="Assets\SCRIPTS\GENERAL\Basi_Door\BasicMovement.cs" />
     <Compile Include="Assets\SCRIPTS\GENERAL\Door_Key\Door_Key.cs" />
     <Compile Include="Assets\SCRIPTS\GENERAL\Door_Key\Key_Behaviour.cs" />
+    <Compile Include="Assets\SCRIPTS\GENERAL\Platform\Platform_Movement.cs" />
+    <Compile Include="Assets\SCRIPTS\GENERAL\Victory.cs" />
     <Compile Include="Assets\SCRIPTS\MENU\CambiarMenu.cs" />
+    <Compile Include="Assets\SCRIPTS\MENU\Exit.cs" />
     <Compile Include="Assets\SCRIPTS\MENU\MenuMovil.cs" />
     <Compile Include="Assets\SCRIPTS\MENU\Scene.cs" />
     <Compile Include="Assets\SCRIPTS\moving.cs" />
+    <Compile Include="Assets\SCRIPTS\PauseGame.cs" />
     <Compile Include="Assets\SCRIPTS\PLAYER\ChangeColor.cs" />
     <Compile Include="Assets\SCRIPTS\PLAYER\CharacterMovement.cs" />
   </ItemGroup>
@@ -114,6 +120,10 @@
     <None Include="Assets\DOWNLOADED\Cardboard realistic boxes [HQ,Free]\SCG_Showcase_Modules\Standard Assets\Effects\CinematicEffects(BETA)\TonemappingColorGrading\Shaders\TonemappingColorGradingHistogram.shader" />
     <None Include="Assets\DOWNLOADED\Corvette\Readme.txt" />
     <None Include="Assets\DOWNLOADED\KEYS\Key\readME keys.txt" />
+    <None Include="Assets\DOWNLOADED\Robo controllers\Readme.txt" />
+    <None Include="Assets\DOWNLOADED\Robo1\Animations\Robo1 animations list.txt" />
+    <None Include="Assets\DOWNLOADED\Robo2\Animations\Robo2 animations list.txt" />
+    <None Include="Assets\DOWNLOADED\Robo3\Animations\Robo3 animations list.txt" />
     <None Include="Assets\DOWNLOADED\SKY city lite\Foliage\Materials\Vegetation.shader" />
     <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />

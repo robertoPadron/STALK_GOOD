@@ -58,6 +58,7 @@
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
+     <None Include="Assets\DOWNLOADED\Robo controllers\Readme.txt" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\SunShaftsComposite.shader" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurves.shader" />
@@ -74,6 +75,7 @@
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\RadialBlur.shader" />
+     <None Include="Assets\DOWNLOADED\Ultra Emissive Particles Shader\Shaders\ParticleEmmissive.shader" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\ContrastComposite.shader" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset3.shader" />
@@ -82,6 +84,7 @@
      <None Include="Assets\DOWNLOADED\Cardboard realistic boxes [HQ,Free]\SCG_Showcase_Modules\Standard Assets\Effects\CinematicEffects(BETA)\DepthOfField\Shaders\DepthOfField.shader" />
      <None Include="Assets\DOWNLOADED\Cardboard realistic boxes [HQ,Free]\SCG_Showcase_Modules\Standard Assets\Effects\CinematicEffects(BETA)\ScreenSpaceReflection\Shaders\ScreenSpaceRaytrace.cginc" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\frag_ao.cginc" />
+     <None Include="Assets\DOWNLOADED\Robo1\Animations\Robo1 animations list.txt" />
      <None Include="Assets\DOWNLOADED\Cardboard realistic boxes [HQ,Free]\SCG_Showcase_Modules\Standard Assets\Effects\CinematicEffects(BETA)\TonemappingColorGrading\Shaders\TonemappingColorGradingHistogram.shader" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader" />
@@ -92,6 +95,7 @@
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurvesSimple.shader" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderYUV.shader" />
+     <None Include="Assets\DOWNLOADED\Robo2\Animations\Robo2 animations list.txt" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\CreaseApply.shader" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
@@ -144,6 +148,7 @@
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\SimpleClear.shader" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
+     <None Include="Assets\DOWNLOADED\Robo3\Animations\Robo3 animations list.txt" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA3Console.shader" />
      <None Include="Assets\DOWNLOADED\Cardboard realistic boxes [HQ,Free]\SCG_Showcase_Modules\Standard Assets\Effects\CinematicEffects(BETA)\TonemappingColorGrading\Shaders\Histogram.compute" />
      <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset2.shader" />

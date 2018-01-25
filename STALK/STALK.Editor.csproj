@@ -141,6 +141,10 @@
     <None Include="Assets\DOWNLOADED\Cardboard realistic boxes [HQ,Free]\SCG_Showcase_Modules\Standard Assets\Effects\CinematicEffects(BETA)\TonemappingColorGrading\Shaders\TonemappingColorGradingHistogram.shader" />
     <None Include="Assets\DOWNLOADED\Corvette\Readme.txt" />
     <None Include="Assets\DOWNLOADED\KEYS\Key\readME keys.txt" />
+    <None Include="Assets\DOWNLOADED\Robo controllers\Readme.txt" />
+    <None Include="Assets\DOWNLOADED\Robo1\Animations\Robo1 animations list.txt" />
+    <None Include="Assets\DOWNLOADED\Robo2\Animations\Robo2 animations list.txt" />
+    <None Include="Assets\DOWNLOADED\Robo3\Animations\Robo3 animations list.txt" />
     <None Include="Assets\DOWNLOADED\SKY city lite\Foliage\Materials\Vegetation.shader" />
     <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\DOWNLOADED\SKY city lite\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
