@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MOVEMENT : MonoBehaviour {
     public float MovementSpeed;
@@ -34,6 +35,7 @@ public class MOVEMENT : MonoBehaviour {
         if (collision.gameObject.tag == "Character")
         {
             Destroy(Character.gameObject);
+            SceneManager.LoadScene("GAMEOVER");
         }
     }
     private void OnTriggerEnter(Collider other)

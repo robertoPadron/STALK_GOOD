@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DESTROY : MonoBehaviour {
     public GameObject Player;
@@ -22,6 +23,7 @@ public class DESTROY : MonoBehaviour {
             
             Destroy(col.gameObject);
             Destroy(this.gameObject);
+            SceneManager.LoadScene("GAMEOVER");
         }
         
     }
